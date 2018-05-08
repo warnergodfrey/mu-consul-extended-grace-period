@@ -1,0 +1,6 @@
+---
+Resources:
+  EcsAutoScalingGroup:
+    Properties:
+      HealthCheckGracePeriod: 600
+
